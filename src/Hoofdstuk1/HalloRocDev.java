@@ -1,4 +1,4 @@
-package h01;
+package Hoofdstuk1;
 
 /**
  * Created by piet on 31-08-16.

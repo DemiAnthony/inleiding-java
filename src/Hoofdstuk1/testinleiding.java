@@ -1,11 +1,8 @@
-package h01;
+package Hoofdstuk1;
 
 import java.applet.Applet;
 import java.awt.*;
 import java.awt.Color;
-
-import static java.awt.Color.black;
-import static java.awt.Color.white;
 
 public class testinleiding extends Applet {
 
